@@ -1,2 +1,2 @@
 # BankLoanCaseStudy
-EDA is performed on the loan data to find relationships, patterns in the data in order to reduce bias.
+The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it as their advantage by becoming a defaulter. EDA is performed on the given data records to find relationships, patterns in the data in order to make sure that the loan is availed to the customer who is capable of paying, and also making sure to avoid bias.
